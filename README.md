@@ -15,7 +15,9 @@ This is an Excel-based Sales Performance Dashboard created to analyze and visual
 - Category-wise Sales
 - Region-wise Sales
 - Salesperson-wise Sales
+## 📊 Dashboard Preview
 
+![Sales Performance Dashboard](sales-dashboard-preview.png)
 ## 🛠️ Tools Used
 
 - Microsoft Excel
